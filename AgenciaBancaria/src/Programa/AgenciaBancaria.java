@@ -13,7 +13,7 @@ public class AgenciaBancaria {
 		contasBancarias = new ArrayList<Conta>();
 		operacoes();
 	}
-
+	//teste commit
 	public static void operacoes() {
 
 		int operacao = Integer.parseInt(JOptionPane
